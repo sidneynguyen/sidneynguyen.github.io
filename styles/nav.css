@@ -1,0 +1,34 @@
+.nav-bar {
+    position: fixed;
+    top: 0px;
+    width: 100vw;
+    height: 56px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e0e0e0
+}
+
+.nav-bar .brand {
+    margin-top: 16px;
+    margin-bottom: 0px;
+    margin-left: 32px;
+    float: left;
+}
+
+.nav-bar ul {
+    float: right;
+    padding-left: 0px;
+}
+
+.nav-bar li {
+    display: inline;
+    list-style: none;
+}
+
+.nav-bar a {
+    margin-top: 16px;
+    margin-right: 32px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.nav-bar

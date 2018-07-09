@@ -1,0 +1,18 @@
+.experience {
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 64px;
+}
+
+.experience h2 {
+    text-align: center;
+}
+
+.company {
+    margin-bottom: 48px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 1.08em;
+}

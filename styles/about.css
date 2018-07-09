@@ -1,0 +1,14 @@
+.about {
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 64px;
+}
+
+.about h2 {
+    text-align: center;
+}
+
+.school {
+    font-weight: bold;
+    font-size: 1.08em;
+}
